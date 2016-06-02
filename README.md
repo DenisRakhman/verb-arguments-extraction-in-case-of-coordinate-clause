@@ -1,0 +1,1 @@
+# verb-arguments-extraction-in-case-of-coordinate-clause
